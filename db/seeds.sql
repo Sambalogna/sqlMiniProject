@@ -4,12 +4,12 @@ VALUES ('The Black Cauldron', 001),
         ('The Mighty Ducks', 003),
         ('Brink', 004),
         ('Frozen', 005), 
-        ('Hot Rod', 006)
+        ('Hot Rod', 006);
 
 INSERT INTO reviews(review)
 VALUES ('5 Stars'),
        ('4 Stars'),
        ('3 Stars'),
        ('2 Stars'),
-       ('1 Star'),
+       ('1 Star');
 
